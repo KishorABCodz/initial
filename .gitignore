@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Include only JS, CSS, and HTML files
+!*.js
+!*.css
+!*.html
+
+# Ignore the .gitignore file itself
+.gitignore
